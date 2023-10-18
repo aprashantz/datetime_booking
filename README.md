@@ -6,34 +6,30 @@ Before reading further, lets evaluate if this package can be useful for your nee
 
 💗 User Types (terms used for two types of users): 💗
 
-- UserWhoServes: provides service to book based on date and time. (Can be admins, doctor, restaurant, barber, plumber or anyone who provides service)
-- UserWhoGetsServed: uses app to book service
+- Creator: provides service to book based on date and time. (Can be admins, doctor, restaurant, barber, plumber or anyone who provides service)
+- Booker: uses app to book service
 
 ## 💗 Features 💗
 
-###### 🥷🏽 For UserWhoServes 🥷🏽
+###### 🥷🏽 For Creator 🥷🏽
 
 - Interface to create time slot for any specific date which can be later used by other users to view/book.
 - Interface to view time slot for selected date and view information like time, price, who booked the timeslot, booking status.
 
-###### 🎉 For UserWhoGetsServed 🎉
+###### 🎉 For Booker 🎉
 
 - Interface to view time slots of selected date. Time slots of this selected date can be filtered as per the need. Example: time slots of only the specific UserWhoServes, or time slots of specific price range, or time slots specific to time range.
 - Interface to choose one or many time slots to book.
 
 ## 💗 Usage 💗
 
-###### 🥷🏽 For UserWhoServes 🥷🏽
+###### 🥷🏽 For Creator 🥷🏽
 
-- later to provide implementation on building interface for UserWhoServes
+- later to provide implementation on building interface for creator
 
-###### 🎉 For UserWhoGetsServed 🎉
+###### 🎉 For Booker 🎉
 
-- later to provide implementation on building interface for UserWhoGetsServed
-
-#### 🍎 Parameters for UserWhoServes 🍎
-
-#### 🍏 Parameters for UserWhoGetsServed 🍏
+- later to provide implementation on building interface for booker
 
 #### 📚 Full documentation 📚
 

@@ -1,7 +1,4 @@
 library datetime_booking;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+part 'src/enums/booking_status_enum.dart';
+part 'src/models/time_slot_model.dart';
