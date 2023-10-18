@@ -23,6 +23,15 @@ Before reading further, lets evaluate if this package can be useful for your nee
 
 ## 💗 Usage 💗
 
+Screenshots:
+
+<div style="display: flex;">
+  <img src="./screenshots/1.png" alt="Screenshot 1" style="width: 200px; margin-right: 10px;">
+  <img src="./screenshots/2.png" alt="Screenshot 2" style="width: 200px; margin-right: 10px;">
+  <img src="./screenshots/3.png" alt="Screenshot 3" style="width: 200px; margin-right: 10px;">
+  <img src="./screenshots/4.png" alt="Screenshot 4" style="width: 200px;">
+</div>
+
 ###### 🥷🏽 For Creator 🥷🏽
 
 - later to provide implementation on building interface for creator
